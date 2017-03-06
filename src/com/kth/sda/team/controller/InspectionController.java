@@ -34,7 +34,7 @@ public class InspectionController {
 		this.inspectionRegistry = inspectionRegistry;
 		this.printer = printer;
 		this.externalauthSystemOfPayment=externalauthSystemOfPayment;
-		this.garageDoor=garageDoor;	
+		this.garageDoor=garageDoor;	//this the second commit now
 	}
 	
 	/**
